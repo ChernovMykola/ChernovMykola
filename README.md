@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+- Python web developer
+- My LinkedIn profile @mykola chernov
 
 <!--
 **ChernovMykola/ChernovMykola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
