@@ -1,7 +1,8 @@
 ### Hello there 👋
 
-- Python web developer
-- My LinkedIn profile @mykola chernov
+- 💻 Python web developer
+- 📫 My LinkedIn profile @mykola chernov
+- ⚡️ Fact about me: I'm an 11 times champion of Ukraine in long-distance running
 
 <!--
 **ChernovMykola/ChernovMykola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
